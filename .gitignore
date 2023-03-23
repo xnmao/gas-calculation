@@ -1,4 +1,5 @@
 # Output
+*.svg
 OCO_backbone.csv
 gas.csv
 gas_SI.csv
