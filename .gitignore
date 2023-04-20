@@ -3,6 +3,7 @@
 OCO_backbone.csv
 gas.csv
 gas_SI.csv
+gas.tex
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
